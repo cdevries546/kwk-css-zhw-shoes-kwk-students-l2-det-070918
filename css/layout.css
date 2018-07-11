@@ -23,4 +23,47 @@
 }
 
 /* Posititoning Classes */
+.archive{
+  width: 200px;
+  height: 600px;
+   position: absolute;
+    right: 100px;
+    top: 1000px;
+}
+
+.summershoes{
+  width: 900px;
+  height: 600px;
+   position: absolute;
+    right: 450px;
+    top: 1000px;
+}
+.ladybugshoes {
+  width: 300px;
+  height: 400px;
+   position: absolute;
+    left: 200px;
+    top: 2000px;
+}
+.skatershoes {
+  width: 300px;
+  height: 400px;
+  position: absolute;
+  left: 600px;
+  top: 2000px;
+}
+
+.bluestar {
+    width: 300px;
+  height: 400px;
+   position: absolute;
+    right: 100px;
+    top: 2000px;
+}
+.border_bottom {
+  bottom: 10px;
+}
+
+
+
 
